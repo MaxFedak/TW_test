@@ -1,7 +1,7 @@
 {
   "name": "my-tailwind-project",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://MaxFedak.github.io/TW_test",
   "dependencies": {
     "@ant-design/icons": "^5.3.7",
